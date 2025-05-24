@@ -4,7 +4,7 @@ A React-based clone of the Intercom AI-enhanced admin panel UI and functionality
 
 ## Live Demo
 
-[View Live Demo](https://your-live-demo-link.com)  
+[View Live Demo](https://6831e78533cca03b2000773f--darling-jalebi-5bfdcf.netlify.app/)  
 *Replace with your actual deployed URL*
 
 ## Features
