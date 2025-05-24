@@ -1,0 +1,51 @@
+.header {
+  height: 60px;
+  background-color: #4a90e2; /* nice blue */
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  width: 36px;
+  height: 36px;
+  margin-right: 0.75rem;
+}
+
+.header-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  user-select: none;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.icon-button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0.25rem;
+  display: flex;
+  align-items: center;
+}
+
+.icon-button img {
+  width: 24px;
+  height: 24px;
+  filter: brightness(100%) contrast(120%);
+}
+
+.icon-button:hover img {
+  filter: brightness(80%) contrast(120%);
+}

@@ -1,0 +1,32 @@
+.message-input-container {
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  border-top: 1px solid #eee;
+  background-color: #fafafa;
+}
+
+.message-input {
+  flex: 1;
+  resize: none;
+  padding: 10px 12px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  font-size: 14px;
+  margin: 0 10px;
+  line-height: 1.4;
+}
+
+.icon-button {
+  background: none;
+  border: none;
+  padding: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.icon-button img {
+  width: 20px;
+  height: 20px;
+}
